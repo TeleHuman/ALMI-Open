@@ -3,7 +3,7 @@
 <div align="center">
 
 [[Website]](https://almi-humanoid.github.io)
-[[Arxiv]](https://arxiv.org/abs/2504.14305)
+<!-- [[Arxiv]](https://arxiv.org/abs/2504.14305) -->
 [[Dataset]](https://huggingface.co/datasets/TeleEmbodied/ALMI-X)
 
 
@@ -25,7 +25,7 @@ In this repository, we release "ALMI policy training code" in `ALMI_RL`, "ALMI-X
 
 
 
-## Citation
+<!-- ## Citation
 If you find our work useful, please consider citing us!
 ```
         @misc{shi2025almi,
@@ -37,7 +37,7 @@ If you find our work useful, please consider citing us!
           primaryClass={cs.RO},
           url={https://arxiv.org/abs/2504.14305}, 
     }
-```
+``` -->
 
 
 ## Acknowledgments
